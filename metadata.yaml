@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8784
     wikipedia: https://en.wikipedia.org/wiki/William_John_McGee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19628#The-Siouan-Indians
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-10-23'
 gutenberg_type: Text
