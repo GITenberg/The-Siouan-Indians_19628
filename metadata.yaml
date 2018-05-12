@@ -1,0 +1,29 @@
+_repo: The-Siouan-Indians_19628
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McGee, W J
+    alias: McGee, William John
+    birthdate: 1853
+    deathdate: 1912
+    gutenberg_agent_id: '8784'
+    url: http://www.gutenberg.org/2009/agents/8784
+    wikipedia: https://en.wikipedia.org/wiki/William_John_McGee
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2006-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siouan Indians'
+- !lcc 'E011'
+title: The Siouan Indians
+url: http://www.gutenberg.org/ebooks/19628
